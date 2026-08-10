@@ -22,13 +22,14 @@
   <tr>
     <td width="55%">
       <br>
-      <b>🍮 Nickname:</b> なな (Nana)<br><br>
+      <b>🍮 Nickname:</b> nana <br><br>
       <b>🌸 Role:</b> Computer Graphics Developer & Real-time Rendering Learner<br><br>
+      <b>🔮 Ultimate Title:</b> Super High School Level Chuunibyou<br><br
       <b>🎀 Focus:</b> Rendering Pipeline, Shaders, Engine Technology<br><br>
       <b>💫 Dream:</b> <i>"Create beautiful worlds with code"</i><br><br>
     </td>
     <td width="45%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youkaide&layout=compact&theme=rose_pine&bg_color=f3fdf8&title_color=88D8B0&text_color=333333&border_color=88D8B0&border_radius=10" height="150" />
+      <img src="https://github.com/user-attachments/assets/bb0adbbd-8f3c-455e-a192-4b0c92f4a0f2" style="width: 70%; max-width: 400px; object-fit: cover; border-radius: 10px;" />
     </td>
   </tr>
 </table>
@@ -60,9 +61,15 @@
 # 📊 𝒢𝒾𝓉ℋ𝓊𝒷 𝒮𝓉𝒶𝓉𝓈
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youkaide&show_icons=true&bg_color=f3fdf8&title_color=88D8B0&icon_color=88D8B0&text_color=333333&border_color=88D8B0&border_radius=10" height="190"/>
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youkaide&background=f3fdf8&ring=88D8B0&fire=88D8B0&currStreakNum=88D8B0&currStreakLabel=88D8B0&sideLabels=333333&dates=333333&border=88D8B0&borderRadius=10" height="190"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=youkaide&show_icons=true&theme=rose_pine&hide_border=true">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youkaide&layout=compact&theme=rose_pine&hide_border=true">
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=youkaide&theme=rose_pine&hide_border=true">
+
 </div>
 
 ---
@@ -102,3 +109,4 @@
 <img src="./assets/sakura.svg" width="100%"/>
 
 </div>
+
