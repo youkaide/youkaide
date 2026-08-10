@@ -1,0 +1,52 @@
+<svg width="1000" height="300"
+xmlns="http://www.w3.org/2000/svg">
+
+<rect width="100%" height="100%" fill="#fff0f5"/>
+
+
+<!-- 樱花 -->
+<g fill="#ffb7c5">
+
+<circle cx="100" cy="20" r="8">
+<animate attributeName="cy"
+from="0" to="300"
+dur="5s"
+repeatCount="indefinite"/>
+</circle>
+
+
+<circle cx="250" cy="60" r="10">
+<animate attributeName="cy"
+from="0" to="300"
+dur="7s"
+repeatCount="indefinite"/>
+</circle>
+
+
+<circle cx="450" cy="10" r="7">
+<animate attributeName="cy"
+from="0" to="300"
+dur="6s"
+repeatCount="indefinite"/>
+</circle>
+
+
+<circle cx="700" cy="80" r="9">
+<animate attributeName="cy"
+from="0" to="300"
+dur="8s"
+repeatCount="indefinite"/>
+</circle>
+
+
+<circle cx="900" cy="30" r="8">
+<animate attributeName="cy"
+from="0" to="300"
+dur="5.5s"
+repeatCount="indefinite"/>
+</circle>
+
+</g>
+
+
+</svg>
