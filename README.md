@@ -36,7 +36,7 @@
 
 ---
 
-## 🌸 𝒟ℯ𝓋ℯ𝓁ℴ𝓅ℯ𝓇 𝒮𝓀𝒾𝓁𝓁𝓈
+## <font color="#88D8B0"> 🌸 𝒟ℯ𝓋ℯ𝓁ℴ𝓅ℯ𝓇 𝒮𝓀𝒾𝓁𝓁𝓈 🌸</font>
 
 <div align="center">
   
@@ -58,19 +58,9 @@
 
 ---
 
-# 📊 𝒢𝒾𝓉ℋ𝓊𝒷 𝒮𝓉𝒶𝓉𝓈
+# <font color="#88D8B0">🍮 𝒢𝒾𝓉ℋ𝓊𝒷 𝒮𝓉𝒶𝓉𝓈 🍮</font>
 
-<div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=youkaide&show_icons=true&theme=rose_pine&hide_border=true">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youkaide&layout=compact&theme=rose_pine&hide_border=true">
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=youkaide&theme=rose_pine&hide_border=true">
-
-</div>
 
 ---
 
