@@ -6,7 +6,7 @@
 
 ### ✨ 𝑹𝒆𝒂𝒍-𝒕𝒊𝒎𝒆 𝑹𝒆𝒏𝒅𝒆𝒓𝒊𝒏𝒈 · 𝑮𝒓𝒂𝒑𝒉𝒊𝒄𝒔 · 𝑮𝒂𝒎𝒆 𝑻𝒆𝒄𝒉 ✨
 
-<img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=22&duration=3000&pause=800&color=FF9FBA&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+a+Graphics+Developer+%F0%9F%8C%B8;Anime+%26+Game+Lover+%26+Lolita+%F0%9F%8E%AE;Creating+beautiful+virtual+worlds+%E2%9C%A8" />
+<img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=22&duration=3000&pause=800&color=FF9FBA&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+a+Graphics+Developer+%F0%9F%8C%B8;Anime+%26+Game+%26+Lolita+%F0%9F%8E%AE;Creating+beautiful+virtual+worlds+%E2%9C%A8" />
 
 </div>
 
