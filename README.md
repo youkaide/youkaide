@@ -16,7 +16,7 @@
 
 </div>
 
-## <font color="#88D8B0">✨ 𝒜𝒷ℴ𝓊𝓉 ℳℯ ✨</font>
+<img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=22&duration=3000&pause=800&color=FF9FBA&center=false&vCenter=false&width=600&lines=%E2%9C%A8+About+me+%E2%9C%A8&repeat=false" />
 
 <table align="center" width="100%">
   <tr>
@@ -24,7 +24,7 @@
       <br>
       <b>🍮 Nickname:</b> nana <br><br>
       <b>🌸 Role:</b> Computer Graphics Developer & Real-time Rendering Learner<br><br>
-      <b>🔮 Ultimate Title:</b> Super High School Level Chuunibyou<br><br
+      <b>🔮 Ultimate Title:</b> Super High School Level Chuunibyou<br><br>
       <b>🎀 Focus:</b> Rendering Pipeline, Shaders, Engine Technology<br><br>
       <b>💫 Dream:</b> <i>"Create beautiful worlds with code"</i><br><br>
     </td>
@@ -36,7 +36,7 @@
 
 ---
 
-## <font color="#88D8B0"> 🌸 𝒟ℯ𝓋ℯ𝓁ℴ𝓅ℯ𝓇 𝒮𝓀𝒾𝓁𝓁𝓈 🌸</font>
+<img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=22&duration=3000&pause=800&color=FF9FBA&center=false&vCenter=false&width=600&lines=%F0%9F%8C%B8+Develop+skill+%F0%9F%8C%B8&repeat=false" />
 
 <div align="center">
   
@@ -58,13 +58,12 @@
 
 ---
 
-# <font color="#88D8B0">🍮 𝒢𝒾𝓉ℋ𝓊𝒷 𝒮𝓉𝒶𝓉𝓈 🍮</font>
+<img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=22&duration=3000&pause=800&color=FF9FBA&center=false&vCenter=false&width=600&lines=%F0%9F%8D%AE+Github+state+%F0%9F%8D%AE&repeat=false" />
 
 
 
 ---
-
-## <font color="#88D8B0">💗 𝒪𝓉𝒶𝓀𝓊 𝒞ℴ𝓇𝓃ℯ𝓇 💗</font>
+<img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=22&duration=3000&pause=800&color=FF9FBA&center=false&vCenter=false&width=600&lines=%F0%9F%92%97+Otaku+corner+%F0%9F%92%97&repeat=false" />
 
 <table align="center" width="100%">
   <tr>
