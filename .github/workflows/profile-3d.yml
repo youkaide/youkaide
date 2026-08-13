@@ -1,10 +1,8 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  # 每天 UTC 0 点（北京时间 8 点）自动更新
   schedule:
     - cron: "0 0 * * *"
-  # 支持手动在 Actions 页面点击触发运行
   workflow_dispatch:
 
 jobs:
@@ -17,8 +15,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          # 设置主题样式：night-view（暗黑霓虹夜景，默认带绿色/薄荷绿光泽）
-          MAX_HEAVY_COLOR: "88D8B0"
       - name: Commit & Push
         run: |
           git config user.name github-actions[bot]
