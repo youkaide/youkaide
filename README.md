@@ -60,7 +60,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=22&duration=3000&pause=800&color=FF9FBA&center=false&vCenter=false&width=600&lines=%F0%9F%8D%AE+Github+state+%F0%9F%8D%AE&repeat=false" />
 
-
+<p align="center">
+  <img src="https://ghchart.rshah.org/88D8B0/youkaide" alt="youkaide's Github Contribution Chart" />
+</p>
 
 ---
 <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=22&duration=3000&pause=800&color=FF9FBA&center=false&vCenter=false&width=600&lines=%F0%9F%92%97+Otaku+corner+%F0%9F%92%97&repeat=false" />
