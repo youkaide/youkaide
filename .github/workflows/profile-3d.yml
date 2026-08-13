@@ -1,0 +1,28 @@
+name: GitHub-Profile-3D-Contrib
+
+on:
+  # 每天 UTC 0 点（北京时间 8 点）自动更新
+  schedule:
+    - cron: "0 0 * * *"
+  # 支持手动在 Actions 页面点击触发运行
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v3
+      - uses: yoshi3860/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          # 设置主题样式：night-view（暗黑霓虹夜景，默认带绿色/薄荷绿光泽）
+          MAX_HEAVY_COLOR: "88D8B0"
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email github-actions[bot]@users.noreply.github.com
+          git add -A .
+          git commit -m "Update 3D Profile Contrib SVG" || exit 0
+          git push
