@@ -53,6 +53,7 @@
   <img src="https://img.shields.io/badge/Unity-88D8B0?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-88D8B0?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/CMake-88D8B0?style=for-the-badge&logo=cmake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-88D8B0?style=for-the-badge&logo=blender&logoColor=white" />
 
 </div>
 
